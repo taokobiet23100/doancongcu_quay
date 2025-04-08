@@ -4,9 +4,9 @@
             <div class="col-lg-4 col-md-12 mb-4">
                 <h5 class="text-uppercase">Liên Hệ</h5>
                 <p>
-                    Địa chỉ: 123 Đường ABC, Thành phố XYZ<br>
-                    Điện thoại: 0967.518.158<br>
-                    Email: info@thantaMMusic.com
+                    Địa chỉ: n16 số 6, Thành phố XYZ<br>
+                    Điện thoại: 0814777393<br>
+                    Email: nguyenthienquy@gmail.com
                 </p>
             </div>
 
